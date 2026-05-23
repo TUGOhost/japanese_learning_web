@@ -15,6 +15,7 @@
     "content:parse:japanese-note": "python3 scripts/python/parse_japanese_note.py",
     "content:generate:legacy": "tsx scripts/generateStructuredContent.ts",
     "content:generate": "npm run content:parse:japanese-note",
+    "content:prepare-public": "tsx scripts/createPublicContentSnapshot.ts",
     "content:validate": "tsx scripts/validateLearningContent.ts",
     "content:report:japanese-note": "tsx scripts/generateJapaneseNoteImportReport.ts",
     "test:python": "python3 -m pytest scripts/python/tests",

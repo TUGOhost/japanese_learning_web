@@ -225,6 +225,15 @@ VITE_CONTENT_MODE=private npm run dev  # 默认，显示 private_only + safe_to_
 VITE_CONTENT_MODE=public npm run build # 只显示 safe_to_publish 和原创内容
 ```
 
+公开部署前还需要生成公开内容快照，避免 `private_only` JSON 条目进入静态构建产物：
+
+```bash
+npm run content:prepare-public
+VITE_CONTENT_MODE=public npm run build
+```
+
+`content:prepare-public` 会就地过滤 `content/generated/*.json`。如果你本地还要继续用完整私有内容开发，重新运行 `npm run content:all:japanese-note` 即可恢复完整生成结果。
+
 ## localStorage
 
 学习进度 key：`japanese-learning-progress-v2`。
@@ -264,8 +273,17 @@ VITE_CONTENT_MODE=public npm run build # 只显示 safe_to_publish 和原创内�
 
 ### GitHub Pages
 
+仓库已提供 `.github/workflows/deploy-pages.yml`，push 到 `main` 或手动运行 `Deploy GitHub Pages` workflow 后会自动部署 `dist`。
+
+第一次使用时，在 GitHub 仓库 `Settings -> Pages` 中把发布源设置为 `GitHub Actions`。workflow 会执行测试、重新生成内容、校验生成文件是否已提交、过滤公开 JSON、再用 GitHub Pages 官方 artifact 部署动作发布静态页面。
+
+Pages 构建会设置：
+
 ```bash
-npm run build
+GITHUB_PAGES=true
+VITE_CONTENT_MODE=public
 ```
 
-将 `dist` 目录作为发布目录即可。项目使用 Hash 路由，例如 `#/home`、`#/kana`、`#/lessons`，刷新页面不依赖服务器 fallback 配置。
+`GITHUB_PAGES=true` 会让 Vite 自动使用仓库名作为 `base`，例如本仓库发布到 `/japanese_learning_web/`。如果以后配置自定义域名或需要覆盖路径，可以在 workflow 的 build step 中设置 `VITE_BASE_PATH=/`。
+
+项目使用 Hash 路由，例如 `#/home`、`#/kana`、`#/lessons`，刷新页面不依赖服务器 fallback 配置。
