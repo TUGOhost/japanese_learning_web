@@ -55,14 +55,11 @@ jobs:
       - name: Test frontend
         run: npm test
 
-      - name: Prepare public content snapshot
-        run: npm run content:prepare-public
-
       - name: Build Pages artifact
         run: npm run build
         env:
           GITHUB_PAGES: "true"
-          VITE_CONTENT_MODE: public
+          VITE_CONTENT_MODE: private
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

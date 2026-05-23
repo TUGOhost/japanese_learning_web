@@ -225,7 +225,7 @@ VITE_CONTENT_MODE=private npm run dev  # 默认，显示 private_only + safe_to_
 VITE_CONTENT_MODE=public npm run build # 只显示 safe_to_publish 和原创内容
 ```
 
-公开部署前还需要生成公开内容快照，避免 `private_only` JSON 条目进入静态构建产物：
+如果要做公开安全部署，还需要生成公开内容快照，避免 `private_only` JSON 条目进入静态构建产物：
 
 ```bash
 npm run content:prepare-public
@@ -233,6 +233,8 @@ VITE_CONTENT_MODE=public npm run build
 ```
 
 `content:prepare-public` 会就地过滤 `content/generated/*.json`。如果你本地还要继续用完整私有内容开发，重新运行 `npm run content:all:japanese-note` 即可恢复完整生成结果。
+
+当前 GitHub Pages workflow 选择个人自用完整内容部署：不会运行 `content:prepare-public`，并使用 `VITE_CONTENT_MODE=private` 构建，因此 `private_only` 的导入内容也会进入 Pages 产物。这个模式适合个人学习站点；如果仓库或 Pages 是公开访问，需要自行确认内容授权风险。
 
 ## localStorage
 
@@ -275,13 +277,13 @@ VITE_CONTENT_MODE=public npm run build
 
 仓库已提供 `.github/workflows/deploy-pages.yml`，push 到 `main` 或手动运行 `Deploy GitHub Pages` workflow 后会自动部署 `dist`。
 
-第一次使用时，在 GitHub 仓库 `Settings -> Pages` 中把发布源设置为 `GitHub Actions`。workflow 会执行测试、重新生成内容、校验生成文件是否已提交、过滤公开 JSON、再用 GitHub Pages 官方 artifact 部署动作发布静态页面。
+第一次使用时，在 GitHub 仓库 `Settings -> Pages` 中把发布源设置为 `GitHub Actions`。workflow 会执行测试、重新生成内容、校验生成文件是否已提交，再用 GitHub Pages 官方 artifact 部署动作发布静态页面。
 
 Pages 构建会设置：
 
 ```bash
 GITHUB_PAGES=true
-VITE_CONTENT_MODE=public
+VITE_CONTENT_MODE=private
 ```
 
 `GITHUB_PAGES=true` 会让 Vite 自动使用仓库名作为 `base`，例如本仓库发布到 `/japanese_learning_web/`。如果以后配置自定义域名或需要覆盖路径，可以在 workflow 的 build step 中设置 `VITE_BASE_PATH=/`。
