@@ -1,0 +1,14 @@
+import type { ConjugationItem } from "../types/learning";
+
+export const conjugations: ConjugationItem[] = [
+  { id: "verb-001", verbDictionaryForm: "行く", reading: "いく", meaning: "去", verbGroup: "一类动词", forms: { masu: "行きます", masen: "行きません", mashita: "行きました", masenDeshita: "行きませんでした", te: "行って", nai: "行かない", ta: "行った" }, examples: [{ form: "ます形", japanese: "学校に行きます。", chinese: "去学校。" }] },
+  { id: "verb-002", verbDictionaryForm: "飲む", reading: "のむ", meaning: "喝", verbGroup: "一类动词", forms: { masu: "飲みます", masen: "飲みません", mashita: "飲みました", masenDeshita: "飲みませんでした", te: "飲んで", nai: "飲まない", ta: "飲んだ" }, examples: [{ form: "ました", japanese: "水を飲みました。", chinese: "喝了水。" }] },
+  { id: "verb-003", verbDictionaryForm: "買う", reading: "かう", meaning: "买", verbGroup: "一类动词", forms: { masu: "買います", masen: "買いません", mashita: "買いました", masenDeshita: "買いませんでした", te: "買って", nai: "買わない", ta: "買った" }, examples: [{ form: "ません", japanese: "今日は買いません。", chinese: "今天不买。" }] },
+  { id: "verb-004", verbDictionaryForm: "読む", reading: "よむ", meaning: "读", verbGroup: "一类动词", forms: { masu: "読みます", masen: "読みません", mashita: "読みました", masenDeshita: "読みませんでした", te: "読んで", nai: "読まない", ta: "読んだ" }, examples: [{ form: "ない形", japanese: "この本は読まないです。", chinese: "这本书不读。" }] },
+  { id: "verb-005", verbDictionaryForm: "食べる", reading: "たべる", meaning: "吃", verbGroup: "二类动词", forms: { masu: "食べます", masen: "食べません", mashita: "食べました", masenDeshita: "食べませんでした", te: "食べて", nai: "食べない", ta: "食べた" }, examples: [{ form: "ます形", japanese: "パンを食べます。", chinese: "吃面包。" }] },
+  { id: "verb-006", verbDictionaryForm: "見る", reading: "みる", meaning: "看", verbGroup: "二类动词", forms: { masu: "見ます", masen: "見ません", mashita: "見ました", masenDeshita: "見ませんでした", te: "見て", nai: "見ない", ta: "見た" }, examples: [{ form: "ました", japanese: "映画を見ました。", chinese: "看了电影。" }] },
+  { id: "verb-007", verbDictionaryForm: "起きる", reading: "おきる", meaning: "起床", verbGroup: "二类动词", forms: { masu: "起きます", masen: "起きません", mashita: "起きました", masenDeshita: "起きませんでした", te: "起きて", nai: "起きない", ta: "起きた" }, examples: [{ form: "ます形", japanese: "七時に起きます。", chinese: "七点起床。" }] },
+  { id: "verb-008", verbDictionaryForm: "寝る", reading: "ねる", meaning: "睡觉", verbGroup: "二类动词", forms: { masu: "寝ます", masen: "寝ません", mashita: "寝ました", masenDeshita: "寝ませんでした", te: "寝て", nai: "寝ない", ta: "寝た" }, examples: [{ form: "ませんでした", japanese: "昨日は早く寝ませんでした。", chinese: "昨天没有早睡。" }] },
+  { id: "verb-009", verbDictionaryForm: "する", reading: "する", meaning: "做", verbGroup: "三类动词", forms: { masu: "します", masen: "しません", mashita: "しました", masenDeshita: "しませんでした", te: "して", nai: "しない", ta: "した" }, examples: [{ form: "ます形", japanese: "勉強します。", chinese: "学习。" }] },
+  { id: "verb-010", verbDictionaryForm: "来る", reading: "くる", meaning: "来", verbGroup: "三类动词", forms: { masu: "来ます", masen: "来ません", mashita: "来ました", masenDeshita: "来ませんでした", te: "来て", nai: "来ない", ta: "来た" }, examples: [{ form: "ました", japanese: "友だちが来ました。", chinese: "朋友来了。" }] }
+];

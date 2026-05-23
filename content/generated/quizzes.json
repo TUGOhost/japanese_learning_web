@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "quiz-sbj2-chukyu-01-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-1",
+    "textbookLesson": 1,
+    "difficulty": "简单",
+    "question": "出会い 的中文意思是？",
+    "options": [
+      "相遇",
+      "获得帮助；得救",
+      "完全",
+      "街道；城镇"
+    ],
+    "answer": "相遇",
+    "explanation": "出会い：相遇",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第1课"
+      ],
+      "lineStart": 10,
+      "lineEnd": 10,
+      "hash": "031cfd2f3d935838",
+      "rawText": "`であい` (出会い) | 名  | 相遇  | `たすかる` (助かる)       | 动1 | 获得帮助；得救"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "930bf83d1a6d5c29"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-10-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-10",
+    "textbookLesson": 10,
+    "difficulty": "简单",
+    "question": "スケジュール 的中文意思是？",
+    "options": [
+      "日程，日程表",
+      "日程紧张；困难；坚固",
+      "没有的事儿，哪里的话",
+      "时装，时尚"
+    ],
+    "answer": "日程，日程表",
+    "explanation": "スケジュール：日程，日程表",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第10课"
+      ],
+      "lineStart": 1633,
+      "lineEnd": 1633,
+      "hash": "55cb8159bae13ad9",
+      "rawText": "`スケジュール`       | 名  | 日程，日程表        | `ハード` (Hard)            | 形2  | 日程紧张；困难；坚固"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "c57809821ed1cc31"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-11-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-11",
+    "textbookLesson": 11,
+    "difficulty": "简单",
+    "question": "一心 的中文意思是？",
+    "options": [
+      "一心",
+      "新作品，新创作",
+      "公映，公开；开放",
+      "票房，演出，上映"
+    ],
+    "answer": "一心",
+    "explanation": "一心：一心",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第11课"
+      ],
+      "lineStart": 1839,
+      "lineEnd": 1839,
+      "hash": "520777b52468edb8",
+      "rawText": "`いっしん` (一心)      | 专   | 一心            | `しんさく` (新作)         | 名  | 新作品，新创作"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "322e96c6ea69dd8e"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-12-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-12",
+    "textbookLesson": 12,
+    "difficulty": "简单",
+    "question": "いよいよ 的中文意思是？",
+    "options": [
+      "到底，终于",
+      "方言",
+      "繁华区，商业区",
+      "大阪市南部商业繁华区名称"
+    ],
+    "answer": "到底，终于",
+    "explanation": "いよいよ：到底，终于",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第12课"
+      ],
+      "lineStart": 2034,
+      "lineEnd": 2034,
+      "hash": "8f39ee82c9a50126",
+      "rawText": "`いよいよ`            | 副  | 到底，终于        | `ほうげん` (方言)    | 名  | 方言"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "3d82ed1e5994b33b"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-13-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-13",
+    "textbookLesson": 13,
+    "difficulty": "简单",
+    "question": "折り入って 的中文意思是？",
+    "options": [
+      "诚恳，特意",
+      "郑重其事，庄重",
+      "自信，信心",
+      "你"
+    ],
+    "answer": "诚恳，特意",
+    "explanation": "折り入って：诚恳，特意",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第13课"
+      ],
+      "lineStart": 2200,
+      "lineEnd": 2200,
+      "hash": "9615204c07faa09c",
+      "rawText": "`おりいって` (折り入って) | 副   | 诚恳，特意 | `あらたまる` (改まる)     | 动1 | 郑重其事，庄重"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "05e002b706de1f34"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-14-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-14",
+    "textbookLesson": 14,
+    "difficulty": "简单",
+    "question": "恩師 的中文意思是？",
+    "options": [
+      "恩师，老师",
+      "后藤",
+      "福建省",
+      "广告公司"
+    ],
+    "answer": "恩师，老师",
+    "explanation": "恩師：恩师，老师",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第14课"
+      ],
+      "lineStart": 2350,
+      "lineEnd": 2350,
+      "hash": "372b28a0bfac874b",
+      "rawText": "`おんし` (恩師)          | 名   | 恩师，老师       | `ごとう` (後藤)                | 专  | 后藤"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "39393469d9bd42ba"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-15-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-15",
+    "textbookLesson": 15,
+    "difficulty": "简单",
+    "question": "こっち 的中文意思是？",
+    "options": [
+      "这边，这里",
+      "哎呀，啊",
+      "一点儿也不，毫无",
+      "另外，顺便说一句"
+    ],
+    "answer": "这边，这里",
+    "explanation": "こっち：这边，这里",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第15课"
+      ],
+      "lineStart": 2499,
+      "lineEnd": 2499,
+      "hash": "88d4360a1c623db7",
+      "rawText": "`こっち`                 | 代   | 这边，这里      | `やあ`                    | 叹  | 哎呀，啊"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "65422ffe3895352b"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-16-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-16",
+    "textbookLesson": 16,
+    "difficulty": "简单",
+    "question": "新郎 的中文意思是？",
+    "options": [
+      "新郎",
+      "工作，就职",
+      "一起；共同",
+      "白发"
+    ],
+    "answer": "新郎",
+    "explanation": "新郎：新郎",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第16课"
+      ],
+      "lineStart": 2651,
+      "lineEnd": 2651,
+      "hash": "4427de496b26faf4",
+      "rawText": "`しんろう` (新郎) | 名  | 新郎       | `つとめ` (勤め) | 名  | 工作，就职"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "c7c50ec524eb30cf"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-17-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-17",
+    "textbookLesson": 17,
+    "difficulty": "简单",
+    "question": "成果 的中文意思是？",
+    "options": [
+      "成果，成就",
+      "以上，超出",
+      "一个例子",
+      "恭维话，奉承话"
+    ],
+    "answer": "成果，成就",
+    "explanation": "成果：成果，成就",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第17课"
+      ],
+      "lineStart": 10,
+      "lineEnd": 10,
+      "hash": "d9b6da492187dc42",
+      "rawText": "`せいか` (成果)     | 名   | 成果，成就      | `いじょう` (以上)     | 名  | 以上，超出"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "7c1107b17daf7782"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-18-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-18",
+    "textbookLesson": 18,
+    "difficulty": "简单",
+    "question": "売り込み 的中文意思是？",
+    "options": [
+      "销售，推销",
+      "老实，诚实",
+      "白酒",
+      "基础，基准；基地"
+    ],
+    "answer": "销售，推销",
+    "explanation": "売り込み：销售，推销",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第18课"
+      ],
+      "lineStart": 198,
+      "lineEnd": 198,
+      "hash": "4571874166369ab8",
+      "rawText": "`うりこみ` (売り込み)     | 名  | 销售，推销 | `しょうじき` (正直)      | 形2 | 老实，诚实"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "f81080fa4555813b"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-19-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-19",
+    "textbookLesson": 19,
+    "difficulty": "简单",
+    "question": "クレーム 的中文意思是？",
+    "options": [
+      "抱怨，投诉，索赔",
+      "裂痕，皲裂",
+      "生气，愤怒",
+      "有道理，理所当然"
+    ],
+    "answer": "抱怨，投诉，索赔",
+    "explanation": "クレーム：抱怨，投诉，索赔",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第19课"
+      ],
+      "lineStart": 361,
+      "lineEnd": 361,
+      "hash": "3cff116cb3e89f0c",
+      "rawText": "`クレーム`      | 名  | 抱怨，投诉，索赔            | `ひび`           | 名  | 裂痕，皲裂"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "572954e29423563e"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-02-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-2",
+    "textbookLesson": 2,
+    "difficulty": "简单",
+    "question": "大山 的中文意思是？",
+    "options": [
+      "大山",
+      "项目，计划",
+      "金星",
+      "前些天，最近"
+    ],
+    "answer": "大山",
+    "explanation": "大山：大山",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第2课"
+      ],
+      "lineStart": 216,
+      "lineEnd": 216,
+      "hash": "c9bbc575f6b7821e",
+      "rawText": "`おおやま` (大山) | 专  | 大山 | `プロジェクト` | 名  | 项目，计划"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "d38a543c46e8e512"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-20-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-20",
+    "textbookLesson": 20,
+    "difficulty": "简单",
+    "question": "灯 的中文意思是？",
+    "options": [
+      "灯；光线，灯光",
+      "考虑问题；心事，担心事",
+      "解约，解除合同，废约",
+      "气馁，消沉，颓丧；扭，挫伤"
+    ],
+    "answer": "灯；光线，灯光",
+    "explanation": "灯：灯；光线，灯光",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第20课"
+      ],
+      "lineStart": 531,
+      "lineEnd": 531,
+      "hash": "275b0cceddb33ec7",
+      "rawText": "`ひ` (灯)             | 名  | 灯；光线，灯光      | `かんがえごと` (考え事) | 名  | 考虑问题；心事，担心事"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "81e6ff8636c58bbe"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-21-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-21",
+    "textbookLesson": 21,
+    "difficulty": "简单",
+    "question": "日系 的中文意思是？",
+    "options": [
+      "日资，日系",
+      "自学",
+      "云南省",
+      "普洱茶"
+    ],
+    "answer": "日资，日系",
+    "explanation": "日系：日资，日系",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第21课"
+      ],
+      "lineStart": 716,
+      "lineEnd": 716,
+      "hash": "cf50bb333e4068f9",
+      "rawText": "`にっけい` (日系)        | 名  | 日资，日系        | `どくがく` (独学)        | 名  | 自学"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "12e32167f1314ce8"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-22-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-22",
+    "textbookLesson": 22,
+    "difficulty": "简单",
+    "question": "榎本 的中文意思是？",
+    "options": [
+      "榎本",
+      "脚本，剧本",
+      "知道，敬悉",
+      "数码相机"
+    ],
+    "answer": "榎本",
+    "explanation": "榎本：榎本",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第22课"
+      ],
+      "lineStart": 883,
+      "lineEnd": 883,
+      "hash": "7dd2da52a38f851e",
+      "rawText": "`えのもと` (榎本)     | 专  | 榎本      | `だいほん` (台本) | 名  | 脚本，剧本"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "4faacc172982930c"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-23-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-23",
+    "textbookLesson": 23,
+    "difficulty": "简单",
+    "question": "瓦 的中文意思是？",
+    "options": [
+      "瓦",
+      "瓦屋顶",
+      "映，照",
+      "乌篷船"
+    ],
+    "answer": "瓦",
+    "explanation": "瓦：瓦",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第23课"
+      ],
+      "lineStart": 1043,
+      "lineEnd": 1043,
+      "hash": "d78fd0dc22f15358",
+      "rawText": "`かわら` (瓦)                 | 名  | 瓦           | `かわらやね` (瓦屋根)          | 名  | 瓦屋顶"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "25e5419ff5ba3b1a"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-24-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-24",
+    "textbookLesson": 24,
+    "difficulty": "简单",
+    "question": "なんて 的中文意思是？",
+    "options": [
+      "简直，实在",
+      "维多利亚峰",
+      "眺望，观看",
+      "不自然"
+    ],
+    "answer": "简直，实在",
+    "explanation": "なんて：简直，实在",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第24课"
+      ],
+      "lineStart": 1229,
+      "lineEnd": 1229,
+      "hash": "4982bea1f1863c4e",
+      "rawText": "`なんて`                | 副  | 简直，实在 | `ビクトリアピーク` (Victoria Peak) | 专  | 维多利亚峰"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "d3f916a0d73f03b2"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-25-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-25",
+    "textbookLesson": 25,
+    "difficulty": "简单",
+    "question": "選考 的中文意思是？",
+    "options": [
+      "选拔",
+      "嘉宾，客人",
+      "太好了，太棒了",
+      "超过，胜过，搬家"
+    ],
+    "answer": "选拔",
+    "explanation": "選考：选拔",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第25课"
+      ],
+      "lineStart": 1397,
+      "lineEnd": 1397,
+      "hash": "b5c970082bbb1143",
+      "rawText": "`せんこう` (選考)             | 名  | 选拔          | `ゲスト` (Guest)                 | 名  | 嘉宾，客人"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "9338f6182c7555b4"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-26-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-26",
+    "textbookLesson": 26,
+    "difficulty": "简单",
+    "question": "前夜 的中文意思是？",
+    "options": [
+      "前夜",
+      "(集会、活动)大厅，比赛大厅",
+      "节能，节省能源",
+      "表彰"
+    ],
+    "answer": "前夜",
+    "explanation": "前夜：前夜",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第26课"
+      ],
+      "lineStart": 1575,
+      "lineEnd": 1575,
+      "hash": "44128114469c201a",
+      "rawText": "`ぜんや` (前夜)           | 名  | 前夜               | `イべントホール` (Event Hall) | 名  | (集会、活动)大厅，比赛大厅"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "3070f34ff9cbd1e9"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-27-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-27",
+    "textbookLesson": 27,
+    "difficulty": "简单",
+    "question": "主催~ 的中文意思是？",
+    "options": [
+      "主办，举办",
+      "盛况",
+      "超级市场",
+      "哎呀"
+    ],
+    "answer": "主办，举办",
+    "explanation": "主催~：主办，举办",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第27课"
+      ],
+      "lineStart": 1697,
+      "lineEnd": 1697,
+      "hash": "71ea179560fa1e61",
+      "rawText": "`しゅさいする` (主催~) | 动3 | 主办，举办 | `せいきょう` (盛況) | 名  | 盛况"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "27ba8e990b8c41f6"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-28-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-28",
+    "textbookLesson": 28,
+    "difficulty": "简单",
+    "question": "いや 的中文意思是？",
+    "options": [
+      "不；哎呀",
+      "事情",
+      "顺便，就便",
+      "搞砸，弄坏，糟蹋"
+    ],
+    "answer": "不；哎呀",
+    "explanation": "いや：不；哎呀",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第28课"
+      ],
+      "lineStart": 1846,
+      "lineEnd": 1846,
+      "hash": "6cabc154e0b05b51",
+      "rawText": "`いや`                    | 叹  | 不；哎呀  | `よう` (用)         | 名  | 事情"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "30f79154e857342c"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-29-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-29",
+    "textbookLesson": 29,
+    "difficulty": "简单",
+    "question": "反響 的中文意思是？",
+    "options": [
+      "反响，反应；回音",
+      "宫保鸡丁",
+      "说话少，沉默寡言",
+      "高升，晋升，荣升"
+    ],
+    "answer": "反响，反应；回音",
+    "explanation": "反響：反响，反应；回音",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第29课"
+      ],
+      "lineStart": 1983,
+      "lineEnd": 1983,
+      "hash": "2b05e4ecd3af9cd2",
+      "rawText": "`はんきょう` (反響) | 名  | 反响，反应；回音 | `ゴンバオジーディン` (宮保鶏丁) | 名  | 宫保鸡丁"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "fc574e4b9f885759"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-03-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-3",
+    "textbookLesson": 3,
+    "difficulty": "简单",
+    "question": "支社 的中文意思是？",
+    "options": [
+      "分公司",
+      "包括，含有，包含",
+      "野田",
+      "理惠"
+    ],
+    "answer": "分公司",
+    "explanation": "支社：分公司",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第3课"
+      ],
+      "lineStart": 386,
+      "lineEnd": 386,
+      "hash": "ed0515ee5865950f",
+      "rawText": "`ししゃ` (支社)          | 名   | 分公司     | `ふくめる` (含める) | 动2  | 包括，含有，包含"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "ccb2725c240e4f1a"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-30-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-30",
+    "textbookLesson": 30,
+    "difficulty": "简单",
+    "question": "一員 的中文意思是？",
+    "options": [
+      "一员，一分子",
+      "手边，手头",
+      "在\\~之前；率先",
+      "细致，周密，详尽"
+    ],
+    "answer": "一员，一分子",
+    "explanation": "一員：一员，一分子",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第30课"
+      ],
+      "lineStart": 2101,
+      "lineEnd": 2101,
+      "hash": "f5089c6ba043b361",
+      "rawText": "`いちいん` (一員)     | 名  | 一员，一分子   | `てもと` (手元)   | 名  | 手边，手头"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "147f4d2359d93604"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-31-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-31",
+    "textbookLesson": 31,
+    "difficulty": "简单",
+    "question": "金本 的中文意思是？",
+    "options": [
+      "金本",
+      "新成立，新设，新设置，新开设",
+      "海外事业部",
+      "安慰，宽慰；慰问，慰劳"
+    ],
+    "answer": "金本",
+    "explanation": "金本：金本",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第31课"
+      ],
+      "lineStart": 2225,
+      "lineEnd": 2225,
+      "hash": "6ae4da38b141a2fa",
+      "rawText": "`かなもと` (金本)                | 专  | 金本      | `しんせつする` (新設~) | 动3 | 新成立，新设，新设置，新开设"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "126f3ce9307bca8b"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-32-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-32",
+    "textbookLesson": 32,
+    "difficulty": "简单",
+    "question": "退社~ 的中文意思是？",
+    "options": [
+      "下班；辞职",
+      "稳定，沉着，安定",
+      "鼓劲，鼓励，激励",
+      "节日，假日"
+    ],
+    "answer": "下班；辞职",
+    "explanation": "退社~：下班；辞职",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-ge",
+      "headingPath": [
+        "第32课"
+      ],
+      "lineStart": 2363,
+      "lineEnd": 2363,
+      "hash": "fbac01af78bafa8f",
+      "rawText": "`たいしゃする` (退社~) | 动3 | 下班；辞职      | `おちつく` (落ち着く) | 动1 | 稳定，沉着，安定"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "786c53089b2ab541"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-04-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-4",
+    "textbookLesson": 4,
+    "difficulty": "简单",
+    "question": "本社 的中文意思是？",
+    "options": [
+      "总部",
+      "青木",
+      "负责人",
+      "迫切要求"
+    ],
+    "answer": "总部",
+    "explanation": "本社：总部",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第4课"
+      ],
+      "lineStart": 553,
+      "lineEnd": 553,
+      "hash": "f125ba4b5939fc90",
+      "rawText": "`ほんしゃ` (本社)       | 名   | 总部  | `あおき` (青木)   | 专  | 青木"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "ea5b05c57c32141e"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-05-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-5",
+    "textbookLesson": 5,
+    "difficulty": "简单",
+    "question": "コンテスト 的中文意思是？",
+    "options": [
+      "比赛，会演",
+      "最高奖",
+      "获奖",
+      "机会，开端"
+    ],
+    "answer": "比赛，会演",
+    "explanation": "コンテスト：比赛，会演",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第5课"
+      ],
+      "lineStart": 747,
+      "lineEnd": 747,
+      "hash": "c0ffbe11efdf5862",
+      "rawText": "`コンテスト`            | 名   | 比赛，会演 | `さいこうしょう` (最高賞) | 名  | 最高奖"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "1a4637094a6c89dd"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-06-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-6",
+    "textbookLesson": 6,
+    "difficulty": "简单",
+    "question": "竜虎酒造 的中文意思是？",
+    "options": [
+      "龙虎酒业公司",
+      "竟然，多么，怎样",
+      "队长；首领；船长",
+      "是嘛，嗯"
+    ],
+    "answer": "龙虎酒业公司",
+    "explanation": "竜虎酒造：龙虎酒业公司",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第6课"
+      ],
+      "lineStart": 925,
+      "lineEnd": 925,
+      "hash": "d0241d25383e9810",
+      "rawText": "`りゅうこしゅぞう` (竜虎酒造) | 专  | 龙虎酒业公司     | `なんと`         | 副  | 竟然，多么，怎样"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "60d813cd12e8f493"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-07-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-7",
+    "textbookLesson": 7,
+    "difficulty": "简单",
+    "question": "シーエム 的中文意思是？",
+    "options": [
+      "广告节目",
+      "燕牌酿酒",
+      "参考",
+      "制作"
+    ],
+    "answer": "广告节目",
+    "explanation": "シーエム：广告节目",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第7课"
+      ],
+      "lineStart": 1093,
+      "lineEnd": 1093,
+      "hash": "d1b4598df8e893df",
+      "rawText": "`シーエム` (CM)        | 名  | 广告节目  | `つばめじょうぞう` (燕醸造)  | 专   | 燕牌酿酒"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "1353592ec16318ea"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-08-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-8",
+    "textbookLesson": 8,
+    "difficulty": "简单",
+    "question": "キャンペーン 的中文意思是？",
+    "options": [
+      "宣传活动",
+      "目标",
+      "集中；榨，挤",
+      "哦，嗬"
+    ],
+    "answer": "宣传活动",
+    "explanation": "キャンペーン：宣传活动",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第8课"
+      ],
+      "lineStart": 1273,
+      "lineEnd": 1273,
+      "hash": "f7c8d72ecd15c73d",
+      "rawText": "`キャンペーン`       | 名  | 宣传活动         | `ターゲット`     | 名   | 目标"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "b50249e944b32d7e"
+  },
+  {
+    "id": "quiz-sbj2-chukyu-09-jnote-001",
+    "level": "N3",
+    "unitId": "unit-sbj2-chukyu-9",
+    "textbookLesson": 9,
+    "difficulty": "简单",
+    "question": "手荷物係 的中文意思是？",
+    "options": [
+      "行李员",
+      "什么样的，怎样的",
+      "姓名牌，姓名卡",
+      "可以，行，好"
+    ],
+    "answer": "行李员",
+    "explanation": "手荷物係：行李员",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-chukyu-jou",
+      "headingPath": [
+        "第9课"
+      ],
+      "lineStart": 1456,
+      "lineEnd": 1456,
+      "hash": "67b76c36a3dcb56c",
+      "rawText": "`てにもつがかり` (手荷物係) | 名  | 行李员          | `どのような`         | 连体 | 什么样的，怎样的"
+    },
+    "contentSource": "标准日本语第二版中级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "a629a6450069964e"
+  },
+  {
+    "id": "quiz-sbj2-01-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-1",
+    "textbookLesson": 1,
+    "difficulty": "简单",
+    "question": "中国人 的中文意思是？",
+    "options": [
+      "中国人",
+      "日本人",
+      "韩国人",
+      "美国人"
+    ],
+    "answer": "中国人",
+    "explanation": "中国人：中国人",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第1课"
+      ],
+      "lineStart": 10,
+      "lineEnd": 10,
+      "hash": "8190692bf9de54f6",
+      "rawText": "`ちゅうごくじん` (中国人)       | 名   | 中国人    | `にほんじん` (日本人)           | 名   | 日本人"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "2492e64811af2748"
+  },
+  {
+    "id": "quiz-sbj2-10-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-10",
+    "textbookLesson": 10,
+    "difficulty": "简单",
+    "question": "奈良 的中文意思是？",
+    "options": [
+      "奈良",
+      "故乡",
+      "大街，通行",
+      "城市，街道"
+    ],
+    "answer": "奈良",
+    "explanation": "奈良：奈良",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第10课"
+      ],
+      "lineStart": 459,
+      "lineEnd": 459,
+      "hash": "e9afb3469475d610",
+      "rawText": "`なら` (奈良)            | 专   | 奈良      | `こきょう`或`ふるさと` (故郷)  | 名   | 故乡"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "06c3ef8fd705dea6"
+  },
+  {
+    "id": "quiz-sbj2-11-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-11",
+    "textbookLesson": 11,
+    "difficulty": "简单",
+    "question": "歌 的中文意思是？",
+    "options": [
+      "歌曲",
+      "卡拉OK",
+      "摇滚乐",
+      "流行音乐"
+    ],
+    "answer": "歌曲",
+    "explanation": "歌：歌曲",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第11课"
+      ],
+      "lineStart": 514,
+      "lineEnd": 514,
+      "hash": "2ed700a517db3897",
+      "rawText": "`うた` (歌)              | 名   | 歌曲            | `カラオケ`             | 名   | 卡拉OK"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "3a02965e671115b6"
+  },
+  {
+    "id": "quiz-sbj2-12-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-12",
+    "textbookLesson": 12,
+    "difficulty": "简单",
+    "question": "季節 的中文意思是？",
+    "options": [
+      "季节",
+      "冬天",
+      "春天",
+      "日式饭菜"
+    ],
+    "answer": "季节",
+    "explanation": "季節：季节",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第12课"
+      ],
+      "lineStart": 563,
+      "lineEnd": 563,
+      "hash": "c388c05d574204fb",
+      "rawText": "`きせつ` (季節)       | 名   | 季节       | `ふゆ` (冬)                | 名   | 冬天"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "40f97e595b3cc0ea"
+  },
+  {
+    "id": "quiz-sbj2-13-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-13",
+    "textbookLesson": 13,
+    "difficulty": "简单",
+    "question": "荷物 的中文意思是？",
+    "options": [
+      "包裹",
+      "明信片",
+      "邮票",
+      "抽屉，取款"
+    ],
+    "answer": "包裹",
+    "explanation": "荷物：包裹",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第13课"
+      ],
+      "lineStart": 597,
+      "lineEnd": 597,
+      "hash": "1ff145e2c3db0a71",
+      "rawText": "`にもつ` (荷物)        | 名   | 包裹   | `はがき` (葉書)        | 名   | 明信片"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "63dcfa5570b410a9"
+  },
+  {
+    "id": "quiz-sbj2-14-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-14",
+    "textbookLesson": 14,
+    "difficulty": "简单",
+    "question": "船便 的中文意思是？",
+    "options": [
+      "海运",
+      "文件",
+      "稿子",
+      "报道"
+    ],
+    "answer": "海运",
+    "explanation": "船便：海运",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第14课"
+      ],
+      "lineStart": 633,
+      "lineEnd": 633,
+      "hash": "0c06a678e1e9c250",
+      "rawText": "`ふなびん` (船便)          | 名   | 海运               | `しょるい` (書類)      | 名   | 文件"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "089956d46f9c08ce"
+  },
+  {
+    "id": "quiz-sbj2-15-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-15",
+    "textbookLesson": 15,
+    "difficulty": "简单",
+    "question": "ボート 的中文意思是？",
+    "options": [
+      "小船",
+      "长椅",
+      "市政府",
+      "手机"
+    ],
+    "answer": "小船",
+    "explanation": "ボート：小船",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第15课"
+      ],
+      "lineStart": 706,
+      "lineEnd": 706,
+      "hash": "f6ab58a3e94373f9",
+      "rawText": "`ボート`                    | 名   | 小船         | `べンチ`                        | 名   | 长椅"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "ca39d024d7ffc9cc"
+  },
+  {
+    "id": "quiz-sbj2-16-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-16",
+    "textbookLesson": 16,
+    "difficulty": "简单",
+    "question": "操作 的中文意思是？",
+    "options": [
+      "操作，操纵",
+      "机器",
+      "旅行社",
+      "航空公司"
+    ],
+    "answer": "操作，操纵",
+    "explanation": "操作：操作，操纵",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第16课"
+      ],
+      "lineStart": 772,
+      "lineEnd": 772,
+      "hash": "3cabe83db6a234d1",
+      "rawText": "`そうさ` (操作)              | 名   | 操作，操纵   | `きかい` (機械)               | 名   | 机器"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "0b766bbae5ce9b72"
+  },
+  {
+    "id": "quiz-sbj2-17-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-17",
+    "textbookLesson": 17,
+    "difficulty": "简单",
+    "question": "洋服 的中文意思是？",
+    "options": [
+      "西服",
+      "毛衣",
+      "笔记本电脑",
+      "摩托车"
+    ],
+    "answer": "西服",
+    "explanation": "洋服：西服",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第17课"
+      ],
+      "lineStart": 860,
+      "lineEnd": 860,
+      "hash": "deb14d21f7bb7943",
+      "rawText": "`ようふく` (洋服)      | 名   | 西服          | `セーター`             | 名    | 毛衣"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "7d45ad319788db47"
+  },
+  {
+    "id": "quiz-sbj2-18-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-18",
+    "textbookLesson": 18,
+    "difficulty": "简单",
+    "question": "音 的中文意思是？",
+    "options": [
+      "声音",
+      "空气",
+      "儿子",
+      "医生"
+    ],
+    "answer": "声音",
+    "explanation": "音：声音",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第18课"
+      ],
+      "lineStart": 896,
+      "lineEnd": 896,
+      "hash": "1e194c1f42f5ba3e",
+      "rawText": "`おと` (音)                | 名   | 声音      | `こえ` (声)              | 名   | 声音"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "ef2fa2bb62e09b5b"
+  },
+  {
+    "id": "quiz-sbj2-19-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-19",
+    "textbookLesson": 19,
+    "difficulty": "简单",
+    "question": "品物 的中文意思是？",
+    "options": [
+      "物品，商品",
+      "盘子",
+      "垃圾",
+      "初学者"
+    ],
+    "answer": "物品，商品",
+    "explanation": "品物：物品，商品",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第19课"
+      ],
+      "lineStart": 950,
+      "lineEnd": 950,
+      "hash": "50bd76560dbfc07e",
+      "rawText": "`しなもの` (品物)           | 名  | 物品，商品 | `おさら` (お皿)            | 名     | 盘子"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "5380a67c7cb64d27"
+  },
+  {
+    "id": "quiz-sbj2-02-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-2",
+    "textbookLesson": 2,
+    "difficulty": "简单",
+    "question": "本 的中文意思是？",
+    "options": [
+      "书",
+      "包，公文包",
+      "笔记本",
+      "铅笔"
+    ],
+    "answer": "书",
+    "explanation": "本：书",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第2课"
+      ],
+      "lineStart": 52,
+      "lineEnd": 52,
+      "hash": "a6d44dc8fc2b1f76",
+      "rawText": "`ほん` (本)                | 名   | 书       | `かばん` (鞄)           | 名   | 包，公文包"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "452624eafe12331c"
+  },
+  {
+    "id": "quiz-sbj2-20-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-20",
+    "textbookLesson": 20,
+    "difficulty": "简单",
+    "question": "趣味 的中文意思是？",
+    "options": [
+      "爱好",
+      "特长",
+      "兴趣",
+      "梦，理想"
+    ],
+    "answer": "爱好",
+    "explanation": "趣味：爱好",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第20课"
+      ],
+      "lineStart": 1013,
+      "lineEnd": 1013,
+      "hash": "e1e279d66ff04b19",
+      "rawText": "`しゅみ` (趣味)             | 名   | 爱好   | `とくぎ` (特技)         | 名   | 特长"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "1dec01e859edafa9"
+  },
+  {
+    "id": "quiz-sbj2-21-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-21",
+    "textbookLesson": 21,
+    "difficulty": "简单",
+    "question": "言葉 的中文意思是？",
+    "options": [
+      "语言，单词",
+      "邮件地址",
+      "连休",
+      "黄金周"
+    ],
+    "answer": "语言，单词",
+    "explanation": "言葉：语言，单词",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第21课"
+      ],
+      "lineStart": 1060,
+      "lineEnd": 1060,
+      "hash": "364127ffd4778941",
+      "rawText": "`ことば` (言葉)           | 名   | 语言，单词 | `メールアドレス`             | 名   | 邮件地址"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "c3c1774db09d5d9a"
+  },
+  {
+    "id": "quiz-sbj2-22-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-22",
+    "textbookLesson": 22,
+    "difficulty": "简单",
+    "question": "スキーじょう 的中文意思是？",
+    "options": [
+      "滑雪场",
+      "欢送会",
+      "方便，情况",
+      "预约"
+    ],
+    "answer": "滑雪场",
+    "explanation": "スキーじょう：滑雪场",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第22课"
+      ],
+      "lineStart": 1105,
+      "lineEnd": 1105,
+      "hash": "171728ec750b5760",
+      "rawText": "`スキーじょう` (~場)       | 名   | 滑雪场     | `そうべつかい` (送別会)   | 名   | 欢送会"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "44d8790afcfc7af0"
+  },
+  {
+    "id": "quiz-sbj2-23-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-23",
+    "textbookLesson": 23,
+    "difficulty": "简单",
+    "question": "週末 的中文意思是？",
+    "options": [
+      "周末",
+      "滑冰",
+      "食物的味道",
+      "每次"
+    ],
+    "answer": "周末",
+    "explanation": "週末：周末",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第23课"
+      ],
+      "lineStart": 1149,
+      "lineEnd": 1149,
+      "hash": "c048c4f3620cde85",
+      "rawText": "`しゅうまつ` (週末)      | 名   | 周末       | `スケート`                 | 名   | 滑冰"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "cfdbcd7cece5fede"
+  },
+  {
+    "id": "quiz-sbj2-24-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-24",
+    "textbookLesson": 24,
+    "difficulty": "简单",
+    "question": "ハイキング 的中文意思是？",
+    "options": [
+      "郊游",
+      "分别，分手",
+      "说话",
+      "送别"
+    ],
+    "answer": "郊游",
+    "explanation": "ハイキング：郊游",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第24课"
+      ],
+      "lineStart": 1179,
+      "lineEnd": 1179,
+      "hash": "dde3184d2f777934",
+      "rawText": "`ハイキング`              | 名   | 郊游          | `おわかれ` (お別れ)      | 名   | 分别，分手"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "b92c8539692d8ea0"
+  },
+  {
+    "id": "quiz-sbj2-25-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-25",
+    "textbookLesson": 25,
+    "difficulty": "简单",
+    "question": "数学 的中文意思是？",
+    "options": [
+      "数学",
+      "专门",
+      "女演员",
+      "营业科"
+    ],
+    "answer": "数学",
+    "explanation": "数学：数学",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第25课"
+      ],
+      "lineStart": 10,
+      "lineEnd": 10,
+      "hash": "f126093b77354c8e",
+      "rawText": "`すうがく` (数学)             | 名   | 数学       | `せんもん` (専門)            | 名   | 专门"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "d9850163477f2a65"
+  },
+  {
+    "id": "quiz-sbj2-26-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-26",
+    "textbookLesson": 26,
+    "difficulty": "简单",
+    "question": "大雨 的中文意思是？",
+    "options": [
+      "大雨",
+      "樱花",
+      "风",
+      "月亮"
+    ],
+    "answer": "大雨",
+    "explanation": "大雨：大雨",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第26课"
+      ],
+      "lineStart": 59,
+      "lineEnd": 59,
+      "hash": "ace351c1a5a70ce3",
+      "rawText": "`おおあめ` (大雨)        | 名      | 大雨        | `さくら` (桜)           | 名   | 樱花"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "1af96868eb3ca908"
+  },
+  {
+    "id": "quiz-sbj2-27-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-27",
+    "textbookLesson": 27,
+    "difficulty": "简单",
+    "question": "経済 的中文意思是？",
+    "options": [
+      "经济",
+      "国际关系学",
+      "许多",
+      "高中"
+    ],
+    "answer": "经济",
+    "explanation": "経済：经济",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第27课"
+      ],
+      "lineStart": 131,
+      "lineEnd": 131,
+      "hash": "0223576f2407a49c",
+      "rawText": "`けいざい` (経済)         | 名   | 经济             | `こくさいかんけいがく` (国際関係学) | 名   | 国际关系学"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "388832c24c5707dc"
+  },
+  {
+    "id": "quiz-sbj2-28-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-28",
+    "textbookLesson": 28,
+    "difficulty": "简单",
+    "question": "マフラー 的中文意思是？",
+    "options": [
+      "围巾",
+      "项链",
+      "家具",
+      "文章"
+    ],
+    "answer": "围巾",
+    "explanation": "マフラー：围巾",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第28课"
+      ],
+      "lineStart": 203,
+      "lineEnd": 203,
+      "hash": "f774fbea058454bf",
+      "rawText": "`マフラー`                | 名   | 围巾       | `ネックレス`                             | 名   | 项链"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "8f9e0c93972ea55a"
+  },
+  {
+    "id": "quiz-sbj2-29-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-29",
+    "textbookLesson": 29,
+    "difficulty": "简单",
+    "question": "質問 的中文意思是？",
+    "options": [
+      "提问，问题",
+      "场合，情况",
+      "麻烦",
+      "紫藤"
+    ],
+    "answer": "提问，问题",
+    "explanation": "質問：提问，问题",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第29课"
+      ],
+      "lineStart": 250,
+      "lineEnd": 250,
+      "hash": "27177a93f195d2da",
+      "rawText": "`しつもん` (質問)         | 名   | 提问，问题 | `ばあい` (場合)            | 名   | 场合，情况"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "1cf0eadfde85f2c9"
+  },
+  {
+    "id": "quiz-sbj2-03-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-3",
+    "textbookLesson": 3,
+    "difficulty": "简单",
+    "question": "デパート 的中文意思是？",
+    "options": [
+      "百货商店",
+      "食堂",
+      "邮局",
+      "银行"
+    ],
+    "answer": "百货商店",
+    "explanation": "デパート：百货商店",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第3课"
+      ],
+      "lineStart": 102,
+      "lineEnd": 102,
+      "hash": "339c122a60642110",
+      "rawText": "`デパート`               | 名   | 百货商店 | `しょくどう` (食堂)       | 名   | 食堂"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "43268fb92cd8528d"
+  },
+  {
+    "id": "quiz-sbj2-30-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-30",
+    "textbookLesson": 30,
+    "difficulty": "简单",
+    "question": "宅配便 的中文意思是？",
+    "options": [
+      "送货上门服务",
+      "报告书",
+      "梅雨",
+      "秋季"
+    ],
+    "answer": "送货上门服务",
+    "explanation": "宅配便：送货上门服务",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第30课"
+      ],
+      "lineStart": 342,
+      "lineEnd": 342,
+      "hash": "b3c68258bef20336",
+      "rawText": "`たくはいびん` (宅配便)     | 名   | 送货上门服务 | `ほうこくしょ` (報告書)          | 名   | 报告书"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "8f474db78b054150"
+  },
+  {
+    "id": "quiz-sbj2-31-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-31",
+    "textbookLesson": 31,
+    "difficulty": "简单",
+    "question": "ボタン 的中文意思是？",
+    "options": [
+      "按钮；纽扣",
+      "胸针",
+      "窗帘，帘子",
+      "水泥"
+    ],
+    "answer": "按钮；纽扣",
+    "explanation": "ボタン：按钮；纽扣",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第31课"
+      ],
+      "lineStart": 392,
+      "lineEnd": 392,
+      "hash": "4a458cb782171ea0",
+      "rawText": "`ボタン`                | 名   | 按钮；纽扣   | `ブローチ`               | 名   | 胸针"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "a9921ab729fbf1a2"
+  },
+  {
+    "id": "quiz-sbj2-32-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-32",
+    "textbookLesson": 32,
+    "difficulty": "简单",
+    "question": "列車 的中文意思是？",
+    "options": [
+      "火车",
+      "高速公共汽车",
+      "出发时间",
+      "旅行计划"
+    ],
+    "answer": "火车",
+    "explanation": "列車：火车",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第32课"
+      ],
+      "lineStart": 458,
+      "lineEnd": 458,
+      "hash": "9877f2591c83b115",
+      "rawText": "`れっしゃ` (列車)            | 名   | 火车          | `こうそくバス` (高速~)      | 名   | 高速公共汽车"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "d193ee4e01015924"
+  },
+  {
+    "id": "quiz-sbj2-33-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-33",
+    "textbookLesson": 33,
+    "difficulty": "简单",
+    "question": "スーツケース 的中文意思是？",
+    "options": [
+      "旅行箱",
+      "后备箱；手提箱",
+      "西服，女套装",
+      "裤子"
+    ],
+    "answer": "旅行箱",
+    "explanation": "スーツケース：旅行箱",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第33课"
+      ],
+      "lineStart": 512,
+      "lineEnd": 512,
+      "hash": "89bb6684cd92fbba",
+      "rawText": "`スーツケース`          | 名   | 旅行箱            | `トランク`               | 名  | 后备箱；手提箱"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "0630acf177a19efd"
+  },
+  {
+    "id": "quiz-sbj2-34-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-34",
+    "textbookLesson": 34,
+    "difficulty": "简单",
+    "question": "カレンダー 的中文意思是？",
+    "options": [
+      "日历",
+      "海报",
+      "紧张的日程",
+      "咖喱饭"
+    ],
+    "answer": "日历",
+    "explanation": "カレンダー：日历",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第34课"
+      ],
+      "lineStart": 584,
+      "lineEnd": 584,
+      "hash": "a7abd07afb95dd0c",
+      "rawText": "`カレンダー` (Calendar)       | 名   | 日历              | `ポスター`               | 名   | 海报"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "aa6d29d2162180cc"
+  },
+  {
+    "id": "quiz-sbj2-35-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-35",
+    "textbookLesson": 35,
+    "difficulty": "简单",
+    "question": "マラソンたいかい 的中文意思是？",
+    "options": [
+      "马拉松大会",
+      "家庭聚会",
+      "游戏汽车，玩具汽车",
+      "电子游戏"
+    ],
+    "answer": "马拉松大会",
+    "explanation": "マラソンたいかい：马拉松大会",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第35课"
+      ],
+      "lineStart": 664,
+      "lineEnd": 664,
+      "hash": "24005cadb4ba1f59",
+      "rawText": "`マラソンたいかい` (~大会)     | 名   | 马拉松大会        | `ホームパーティー`            | 名  | 家庭聚会"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "30811042edecffd9"
+  },
+  {
+    "id": "quiz-sbj2-36-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-36",
+    "textbookLesson": 36,
+    "difficulty": "简单",
+    "question": "最初 的中文意思是？",
+    "options": [
+      "最初",
+      "出生地",
+      "工厂",
+      "烟筒"
+    ],
+    "answer": "最初",
+    "explanation": "最初：最初",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第36课"
+      ],
+      "lineStart": 742,
+      "lineEnd": 742,
+      "hash": "aaa5d66adfb7cc5f",
+      "rawText": "`さいしょ` (最初)               | 名   | 最初         | `しゅっしん` (出身)          | 名  | 出生地"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "23c083cf747c41ef"
+  },
+  {
+    "id": "quiz-sbj2-37-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-37",
+    "textbookLesson": 37,
+    "difficulty": "简单",
+    "question": "用事 的中文意思是？",
+    "options": [
+      "事情",
+      "大会",
+      "规模",
+      "计划"
+    ],
+    "answer": "事情",
+    "explanation": "用事：事情",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第37课"
+      ],
+      "lineStart": 822,
+      "lineEnd": 822,
+      "hash": "ad806a388d0a5f94",
+      "rawText": "`ようじ` (用事)               | 名   | 事情       | `たいかい` (大会)               | 名     | 大会"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "5adcc47f9ed036fe"
+  },
+  {
+    "id": "quiz-sbj2-38-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-38",
+    "textbookLesson": 38,
+    "difficulty": "简单",
+    "question": "商品 的中文意思是？",
+    "options": [
+      "商品",
+      "垃圾箱",
+      "杯子",
+      "塑料瓶"
+    ],
+    "answer": "商品",
+    "explanation": "商品：商品",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第38课"
+      ],
+      "lineStart": 878,
+      "lineEnd": 878,
+      "hash": "61f797f9878aad6f",
+      "rawText": "`しょうひん` (商品)             | 名   | 商品               | `ごみばこ` (ごみ箱)              | 名  | 垃圾箱"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "84401036b7b2db58"
+  },
+  {
+    "id": "quiz-sbj2-39-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-39",
+    "textbookLesson": 39,
+    "difficulty": "简单",
+    "question": "村 的中文意思是？",
+    "options": [
+      "村子，村庄",
+      "稻子",
+      "雾",
+      "城门，门"
+    ],
+    "answer": "村子，村庄",
+    "explanation": "村：村子，村庄",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第39课"
+      ],
+      "lineStart": 944,
+      "lineEnd": 944,
+      "hash": "c508191d095550f5",
+      "rawText": "`むら` (村)              | 名  | 村子，村庄 | `いね` (稲)                | 名  | 稻子"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "a46abb93c2a6000e"
+  },
+  {
+    "id": "quiz-sbj2-04-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-4",
+    "textbookLesson": 4,
+    "difficulty": "简单",
+    "question": "部屋 的中文意思是？",
+    "options": [
+      "房间",
+      "院子",
+      "家",
+      "起居室"
+    ],
+    "answer": "房间",
+    "explanation": "部屋：房间",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第4课"
+      ],
+      "lineStart": 143,
+      "lineEnd": 143,
+      "hash": "7aea3c5a323ce521",
+      "rawText": "`へや` (部屋)        | 名   | 房间       | `にわ` (庭)                | 名   | 院子"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "e73809a0faeb1716"
+  },
+  {
+    "id": "quiz-sbj2-40-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-40",
+    "textbookLesson": 40,
+    "difficulty": "简单",
+    "question": "モノレール 的中文意思是？",
+    "options": [
+      "单轨铁路",
+      "油，润滑油",
+      "跳舞",
+      "时代"
+    ],
+    "answer": "单轨铁路",
+    "explanation": "モノレール：单轨铁路",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第40课"
+      ],
+      "lineStart": 1007,
+      "lineEnd": 1007,
+      "hash": "5e5ca5bc8dab2993",
+      "rawText": "`モノレール`             | 名  | 单轨铁路     | `オイル` (Oil)          | 名  | 油，润滑油"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "6a11bc2055d3c3be"
+  },
+  {
+    "id": "quiz-sbj2-41-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-41",
+    "textbookLesson": 41,
+    "difficulty": "简单",
+    "question": "小鳥 的中文意思是？",
+    "options": [
+      "小鸟",
+      "世博会",
+      "遗址，遗迹",
+      "上司"
+    ],
+    "answer": "小鸟",
+    "explanation": "小鳥：小鸟",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第41课"
+      ],
+      "lineStart": 1047,
+      "lineEnd": 1047,
+      "hash": "ff8297f04a0d0279",
+      "rawText": "`ことり` (小鳥)                  | 名  | 小鸟         | `ばんぱく` (万博)             | 名  | 世博会"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "ec3c838b07400492"
+  },
+  {
+    "id": "quiz-sbj2-42-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-42",
+    "textbookLesson": 42,
+    "difficulty": "简单",
+    "question": "責任者 的中文意思是？",
+    "options": [
+      "负责人",
+      "同事",
+      "观众",
+      "空腹，饿"
+    ],
+    "answer": "负责人",
+    "explanation": "責任者：负责人",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第42课"
+      ],
+      "lineStart": 1126,
+      "lineEnd": 1126,
+      "hash": "db0d890062a9c038",
+      "rawText": "`せきにんしゃ` (責任者)       | 名  | 负责人      | `どうりょう` (同僚)         | 名  | 同事"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "7f35cad3edeadf72"
+  },
+  {
+    "id": "quiz-sbj2-43-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-43",
+    "textbookLesson": 43,
+    "difficulty": "简单",
+    "question": "お手伝い 的中文意思是？",
+    "options": [
+      "帮忙",
+      "换车，换乘",
+      "想法，思想",
+      "女性专用"
+    ],
+    "answer": "帮忙",
+    "explanation": "お手伝い：帮忙",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第43课"
+      ],
+      "lineStart": 1182,
+      "lineEnd": 1182,
+      "hash": "d4470072d3cbfb4a",
+      "rawText": "`おてつだい` (お手伝い)        | 名  | 帮忙                  | `のりかえ` (乗り換え)       | 名  | 换车，换乘"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "d94b8d64b83891b9"
+  },
+  {
+    "id": "quiz-sbj2-44-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-44",
+    "textbookLesson": 44,
+    "difficulty": "简单",
+    "question": "社員旅行 的中文意思是？",
+    "options": [
+      "全社旅行",
+      "新来的职员",
+      "会场",
+      "国际会议"
+    ],
+    "answer": "全社旅行",
+    "explanation": "社員旅行：全社旅行",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第44课"
+      ],
+      "lineStart": 1276,
+      "lineEnd": 1276,
+      "hash": "c3b21b4904be93b7",
+      "rawText": "`しゃいんりょこう` (社員旅行) | 名  | 全社旅行               | `しんにゅうしゃいん` (新入社員) | 名    | 新来的职员"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "1e3214d3809f4ea5"
+  },
+  {
+    "id": "quiz-sbj2-45-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-45",
+    "textbookLesson": 45,
+    "difficulty": "简单",
+    "question": "少子化 的中文意思是？",
+    "options": [
+      "孩子减少现象",
+      "人口",
+      "平均年龄",
+      "交通"
+    ],
+    "answer": "孩子减少现象",
+    "explanation": "少子化：孩子减少现象",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第45课"
+      ],
+      "lineStart": 1358,
+      "lineEnd": 1358,
+      "hash": "9b871dc13f6e06b1",
+      "rawText": "`しょうしか` (少子化)          | 名  | 孩子减少现象      | `じんこう` (人口)             | 名  | 人口"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "232b8fdd79e4b3d8"
+  },
+  {
+    "id": "quiz-sbj2-46-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-46",
+    "textbookLesson": 46,
+    "difficulty": "简单",
+    "question": "毛皮 的中文意思是？",
+    "options": [
+      "毛皮",
+      "真货",
+      "花纹，身材",
+      "柠檬"
+    ],
+    "answer": "毛皮",
+    "explanation": "毛皮：毛皮",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第46课"
+      ],
+      "lineStart": 1430,
+      "lineEnd": 1430,
+      "hash": "6b871ef8a8df5c7c",
+      "rawText": "`けがわ` (毛皮)            | 名  | 毛皮         | `ほんもの` (本物)            | 名  | 真货"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "7e7fe074de85f735"
+  },
+  {
+    "id": "quiz-sbj2-47-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-47",
+    "textbookLesson": 47,
+    "difficulty": "简单",
+    "question": "下見 的中文意思是？",
+    "options": [
+      "视察",
+      "职员，同事",
+      "您的孩子",
+      "(尊他) 吃，喝"
+    ],
+    "answer": "视察",
+    "explanation": "下見：视察",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第47课"
+      ],
+      "lineStart": 1492,
+      "lineEnd": 1492,
+      "hash": "be4d29a59db3610f",
+      "rawText": "`したみ` (下見)                   | 名  | 视察              | `スタッフ`                      | 名  | 职员，同事"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "da54d0e0cac72b03"
+  },
+  {
+    "id": "quiz-sbj2-48-jnote-001",
+    "level": "N4",
+    "unitId": "unit-sbj2-shokyu-48",
+    "textbookLesson": 48,
+    "difficulty": "简单",
+    "question": "明日 的中文意思是？",
+    "options": [
+      "明天",
+      "昨天",
+      "这次，这回",
+      "我"
+    ],
+    "answer": "明天",
+    "explanation": "明日：明天",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-ge",
+      "headingPath": [
+        "第48课"
+      ],
+      "lineStart": 1519,
+      "lineEnd": 1519,
+      "hash": "a8f2ed07040bc2d4",
+      "rawText": "`みょうにち` (明日)                  | 名  | 明天                        | `あす` (明日)                          | 名  | 明天"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "7871be79f066f057"
+  },
+  {
+    "id": "quiz-sbj2-05-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-5",
+    "textbookLesson": 5,
+    "difficulty": "简单",
+    "question": "今 的中文意思是？",
+    "options": [
+      "现在",
+      "上个星期",
+      "下个星期",
+      "下下个星期"
+    ],
+    "answer": "现在",
+    "explanation": "今：现在",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第5课"
+      ],
+      "lineStart": 188,
+      "lineEnd": 188,
+      "hash": "ff1c2f81da27a494",
+      "rawText": "`いま` (今)                  | 名    | 现在     | `せんしゅう` (先週)            | 名    | 上个星期"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "3e680e10b789c492"
+  },
+  {
+    "id": "quiz-sbj2-06-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-6",
+    "textbookLesson": 6,
+    "difficulty": "简单",
+    "question": "夜中 的中文意思是？",
+    "options": [
+      "午夜",
+      "昨天晚上",
+      "音乐会",
+      "圣诞节"
+    ],
+    "answer": "午夜",
+    "explanation": "夜中：午夜",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第6课"
+      ],
+      "lineStart": 247,
+      "lineEnd": 247,
+      "hash": "8b5e5c4dcc1b6674",
+      "rawText": "`よなか` (夜中)        | 名  | 午夜     | `ゆうべ`或`ゆんべ` (昨夜)  | 名   | 昨天晚上"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "ba75e7cb6bb2f45b"
+  },
+  {
+    "id": "quiz-sbj2-07-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-7",
+    "textbookLesson": 7,
+    "difficulty": "简单",
+    "question": "コーヒー 的中文意思是？",
+    "options": [
+      "咖啡",
+      "可乐",
+      "茶",
+      "葡萄酒"
+    ],
+    "answer": "咖啡",
+    "explanation": "コーヒー：咖啡",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第7课"
+      ],
+      "lineStart": 281,
+      "lineEnd": 281,
+      "hash": "36e13ece2eb72dfd",
+      "rawText": "`コーヒー`               | 名  | 咖啡   | `コーラ`              | 名  | 可乐"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "e11d78bf8428589f"
+  },
+  {
+    "id": "quiz-sbj2-08-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-8",
+    "textbookLesson": 8,
+    "difficulty": "简单",
+    "question": "プレゼント 的中文意思是？",
+    "options": [
+      "礼物",
+      "票",
+      "小册子",
+      "纪念品"
+    ],
+    "answer": "礼物",
+    "explanation": "プレゼント：礼物",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第8课"
+      ],
+      "lineStart": 332,
+      "lineEnd": 332,
+      "hash": "35a65dab6880c7b4",
+      "rawText": "`プレゼント`               | 名  | 礼物            | `チケット`               | 名  | 票"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "b48d89e06ba608a2"
+  },
+  {
+    "id": "quiz-sbj2-09-jnote-001",
+    "level": "N5",
+    "unitId": "unit-sbj2-shokyu-9",
+    "textbookLesson": 9,
+    "difficulty": "简单",
+    "question": "料理 的中文意思是？",
+    "options": [
+      "饭菜",
+      "四川菜",
+      "汤",
+      "北京烤鸭"
+    ],
+    "answer": "饭菜",
+    "explanation": "料理：饭菜",
+    "source": {
+      "sourceRepo": "fukangwei/Japanese_Note",
+      "sourceUrl": "https://github.com/fukangwei/Japanese_Note",
+      "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+      "sourceFileId": "jnote-vocabulary-shokyu-jou",
+      "headingPath": [
+        "第9课"
+      ],
+      "lineStart": 401,
+      "lineEnd": 401,
+      "hash": "2decf184bea87cfb",
+      "rawText": "`りょうり` (料理)              | 名   | 饭菜      | `しせんりょうり` (四川料理)        | 名   | 四川菜"
+    },
+    "contentSource": "标准日本语第二版初级",
+    "publishStatus": "private_only",
+    "importStatus": "imported",
+    "importHash": "c8474c10302a4af4"
+  }
+]

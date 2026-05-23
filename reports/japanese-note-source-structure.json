@@ -1,0 +1,1368 @@
+[
+  {
+    "fileName": "新版标准日本语中级词汇表_上册.md",
+    "relativePath": "新版标准日本语中级词汇表_上册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_上册.md",
+    "lineCount": 2761,
+    "charCount": 110821,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 1,
+        "globalLessonNumber": 1,
+        "text": "第1课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 2,
+        "globalLessonNumber": 2,
+        "text": "第2课",
+        "line": 212
+      },
+      {
+        "rawLessonNumber": 3,
+        "globalLessonNumber": 3,
+        "text": "第3课",
+        "line": 382
+      },
+      {
+        "rawLessonNumber": 4,
+        "globalLessonNumber": 4,
+        "text": "第4课",
+        "line": 549
+      },
+      {
+        "rawLessonNumber": 5,
+        "globalLessonNumber": 5,
+        "text": "第5课",
+        "line": 743
+      },
+      {
+        "rawLessonNumber": 6,
+        "globalLessonNumber": 6,
+        "text": "第6课",
+        "line": 921
+      },
+      {
+        "rawLessonNumber": 7,
+        "globalLessonNumber": 7,
+        "text": "第7课",
+        "line": 1089
+      },
+      {
+        "rawLessonNumber": 8,
+        "globalLessonNumber": 8,
+        "text": "第8课",
+        "line": 1269
+      },
+      {
+        "rawLessonNumber": 9,
+        "globalLessonNumber": 9,
+        "text": "第9课",
+        "line": 1452
+      },
+      {
+        "rawLessonNumber": 10,
+        "globalLessonNumber": 10,
+        "text": "第10课",
+        "line": 1629
+      },
+      {
+        "rawLessonNumber": 11,
+        "globalLessonNumber": 11,
+        "text": "第11课",
+        "line": 1835
+      },
+      {
+        "rawLessonNumber": 12,
+        "globalLessonNumber": 12,
+        "text": "第12课",
+        "line": 2030
+      },
+      {
+        "rawLessonNumber": 13,
+        "globalLessonNumber": 13,
+        "text": "第13课",
+        "line": 2196
+      },
+      {
+        "rawLessonNumber": 14,
+        "globalLessonNumber": 14,
+        "text": "第14课",
+        "line": 2346
+      },
+      {
+        "rawLessonNumber": 15,
+        "globalLessonNumber": 15,
+        "text": "第15课",
+        "line": 2495
+      },
+      {
+        "rawLessonNumber": 16,
+        "globalLessonNumber": 16,
+        "text": "第16课",
+        "line": 2647
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语中级词汇表_下册.md",
+    "relativePath": "新版标准日本语中级词汇表_下册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语中级词汇表_下册.md",
+    "lineCount": 2492,
+    "charCount": 111116,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 17,
+        "globalLessonNumber": 17,
+        "text": "第17课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 18,
+        "globalLessonNumber": 18,
+        "text": "第18课",
+        "line": 194
+      },
+      {
+        "rawLessonNumber": 19,
+        "globalLessonNumber": 19,
+        "text": "第19课",
+        "line": 357
+      },
+      {
+        "rawLessonNumber": 20,
+        "globalLessonNumber": 20,
+        "text": "第20课",
+        "line": 527
+      },
+      {
+        "rawLessonNumber": 21,
+        "globalLessonNumber": 21,
+        "text": "第21课",
+        "line": 712
+      },
+      {
+        "rawLessonNumber": 22,
+        "globalLessonNumber": 22,
+        "text": "第22课",
+        "line": 879
+      },
+      {
+        "rawLessonNumber": 23,
+        "globalLessonNumber": 23,
+        "text": "第23课",
+        "line": 1039
+      },
+      {
+        "rawLessonNumber": 24,
+        "globalLessonNumber": 24,
+        "text": "第24课",
+        "line": 1225
+      },
+      {
+        "rawLessonNumber": 25,
+        "globalLessonNumber": 25,
+        "text": "第25课",
+        "line": 1393
+      },
+      {
+        "rawLessonNumber": 26,
+        "globalLessonNumber": 26,
+        "text": "第26课",
+        "line": 1571
+      },
+      {
+        "rawLessonNumber": 27,
+        "globalLessonNumber": 27,
+        "text": "第27课",
+        "line": 1693
+      },
+      {
+        "rawLessonNumber": 28,
+        "globalLessonNumber": 28,
+        "text": "第28课",
+        "line": 1842
+      },
+      {
+        "rawLessonNumber": 29,
+        "globalLessonNumber": 29,
+        "text": "第29课",
+        "line": 1979
+      },
+      {
+        "rawLessonNumber": 30,
+        "globalLessonNumber": 30,
+        "text": "第30课",
+        "line": 2097
+      },
+      {
+        "rawLessonNumber": 31,
+        "globalLessonNumber": 31,
+        "text": "第31课",
+        "line": 2221
+      },
+      {
+        "rawLessonNumber": 32,
+        "globalLessonNumber": 32,
+        "text": "第32课",
+        "line": 2359
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语中级语法总结_上册.md",
+    "relativePath": "新版标准日本语中级语法总结_上册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语中级语法总结_上册.md",
+    "lineCount": 3029,
+    "charCount": 111723,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 1,
+        "globalLessonNumber": 1,
+        "text": "第1课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 2,
+        "globalLessonNumber": 2,
+        "text": "第2课",
+        "line": 216
+      },
+      {
+        "rawLessonNumber": 3,
+        "globalLessonNumber": 3,
+        "text": "第3课",
+        "line": 393
+      },
+      {
+        "rawLessonNumber": 4,
+        "globalLessonNumber": 4,
+        "text": "第4课",
+        "line": 529
+      },
+      {
+        "rawLessonNumber": 5,
+        "globalLessonNumber": 5,
+        "text": "第5课",
+        "line": 740
+      },
+      {
+        "rawLessonNumber": 6,
+        "globalLessonNumber": 6,
+        "text": "第6课",
+        "line": 967
+      },
+      {
+        "rawLessonNumber": 7,
+        "globalLessonNumber": 7,
+        "text": "第7课",
+        "line": 1165
+      },
+      {
+        "rawLessonNumber": 8,
+        "globalLessonNumber": 8,
+        "text": "第8课",
+        "line": 1340
+      },
+      {
+        "rawLessonNumber": 9,
+        "globalLessonNumber": 9,
+        "text": "第9课",
+        "line": 1516
+      },
+      {
+        "rawLessonNumber": 10,
+        "globalLessonNumber": 10,
+        "text": "第10课",
+        "line": 1722
+      },
+      {
+        "rawLessonNumber": 11,
+        "globalLessonNumber": 11,
+        "text": "第11课",
+        "line": 1907
+      },
+      {
+        "rawLessonNumber": 12,
+        "globalLessonNumber": 12,
+        "text": "第12课",
+        "line": 2197
+      },
+      {
+        "rawLessonNumber": 13,
+        "globalLessonNumber": 13,
+        "text": "第13课",
+        "line": 2422
+      },
+      {
+        "rawLessonNumber": 14,
+        "globalLessonNumber": 14,
+        "text": "第14课",
+        "line": 2606
+      },
+      {
+        "rawLessonNumber": 15,
+        "globalLessonNumber": 15,
+        "text": "第15课",
+        "line": 2751
+      },
+      {
+        "rawLessonNumber": 16,
+        "globalLessonNumber": 16,
+        "text": "第16课",
+        "line": 2917
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语中级语法总结_下册.md",
+    "relativePath": "新版标准日本语中级语法总结_下册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语中级语法总结_下册.md",
+    "lineCount": 2941,
+    "charCount": 113846,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 17,
+        "globalLessonNumber": 17,
+        "text": "第17课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 18,
+        "globalLessonNumber": 18,
+        "text": "第18课",
+        "line": 119
+      },
+      {
+        "rawLessonNumber": 19,
+        "globalLessonNumber": 19,
+        "text": "第19课",
+        "line": 301
+      },
+      {
+        "rawLessonNumber": 20,
+        "globalLessonNumber": 20,
+        "text": "第20课",
+        "line": 483
+      },
+      {
+        "rawLessonNumber": 21,
+        "globalLessonNumber": 21,
+        "text": "第21课",
+        "line": 736
+      },
+      {
+        "rawLessonNumber": 22,
+        "globalLessonNumber": 22,
+        "text": "第22课",
+        "line": 916
+      },
+      {
+        "rawLessonNumber": 23,
+        "globalLessonNumber": 23,
+        "text": "第23课",
+        "line": 1108
+      },
+      {
+        "rawLessonNumber": 24,
+        "globalLessonNumber": 24,
+        "text": "第24课",
+        "line": 1293
+      },
+      {
+        "rawLessonNumber": 25,
+        "globalLessonNumber": 25,
+        "text": "第25课",
+        "line": 1457
+      },
+      {
+        "rawLessonNumber": 26,
+        "globalLessonNumber": 26,
+        "text": "第26课",
+        "line": 1672
+      },
+      {
+        "rawLessonNumber": 27,
+        "globalLessonNumber": 27,
+        "text": "第27课",
+        "line": 1847
+      },
+      {
+        "rawLessonNumber": 28,
+        "globalLessonNumber": 28,
+        "text": "第28课",
+        "line": 2034
+      },
+      {
+        "rawLessonNumber": 29,
+        "globalLessonNumber": 29,
+        "text": "第29课",
+        "line": 2155
+      },
+      {
+        "rawLessonNumber": 30,
+        "globalLessonNumber": 30,
+        "text": "第30课",
+        "line": 2380
+      },
+      {
+        "rawLessonNumber": 31,
+        "globalLessonNumber": 31,
+        "text": "第31课",
+        "line": 2532
+      },
+      {
+        "rawLessonNumber": 32,
+        "globalLessonNumber": 32,
+        "text": "第32课",
+        "line": 2793
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语初级词汇表_上册.md",
+    "relativePath": "新版标准日本语初级词汇表_上册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_上册.md",
+    "lineCount": 1227,
+    "charCount": 53882,
+    "contentKind": "vocabulary",
+    "textbookBook": "初级上",
+    "lessonStart": 1,
+    "lessonEnd": 24,
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 1,
+        "globalLessonNumber": 1,
+        "text": "第1课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 2,
+        "globalLessonNumber": 2,
+        "text": "第2课",
+        "line": 48
+      },
+      {
+        "rawLessonNumber": 3,
+        "globalLessonNumber": 3,
+        "text": "第3课",
+        "line": 98
+      },
+      {
+        "rawLessonNumber": 4,
+        "globalLessonNumber": 4,
+        "text": "第4课",
+        "line": 139
+      },
+      {
+        "rawLessonNumber": 5,
+        "globalLessonNumber": 5,
+        "text": "第5课",
+        "line": 184
+      },
+      {
+        "rawLessonNumber": 6,
+        "globalLessonNumber": 6,
+        "text": "第6课",
+        "line": 243
+      },
+      {
+        "rawLessonNumber": 7,
+        "globalLessonNumber": 7,
+        "text": "第7课",
+        "line": 277
+      },
+      {
+        "rawLessonNumber": 8,
+        "globalLessonNumber": 8,
+        "text": "第8课",
+        "line": 328
+      },
+      {
+        "rawLessonNumber": 9,
+        "globalLessonNumber": 9,
+        "text": "第9课",
+        "line": 397
+      },
+      {
+        "rawLessonNumber": 10,
+        "globalLessonNumber": 10,
+        "text": "第10课",
+        "line": 455
+      },
+      {
+        "rawLessonNumber": 11,
+        "globalLessonNumber": 11,
+        "text": "第11课",
+        "line": 510
+      },
+      {
+        "rawLessonNumber": 12,
+        "globalLessonNumber": 12,
+        "text": "第12课",
+        "line": 559
+      },
+      {
+        "rawLessonNumber": 13,
+        "globalLessonNumber": 13,
+        "text": "第13课",
+        "line": 593
+      },
+      {
+        "rawLessonNumber": 14,
+        "globalLessonNumber": 14,
+        "text": "第14课",
+        "line": 629
+      },
+      {
+        "rawLessonNumber": 15,
+        "globalLessonNumber": 15,
+        "text": "第15课",
+        "line": 702
+      },
+      {
+        "rawLessonNumber": 16,
+        "globalLessonNumber": 16,
+        "text": "第16课",
+        "line": 768
+      },
+      {
+        "rawLessonNumber": 17,
+        "globalLessonNumber": 17,
+        "text": "第17课",
+        "line": 856
+      },
+      {
+        "rawLessonNumber": 18,
+        "globalLessonNumber": 18,
+        "text": "第18课",
+        "line": 892
+      },
+      {
+        "rawLessonNumber": 19,
+        "globalLessonNumber": 19,
+        "text": "第19课",
+        "line": 946
+      },
+      {
+        "rawLessonNumber": 20,
+        "globalLessonNumber": 20,
+        "text": "第20课",
+        "line": 1009
+      },
+      {
+        "rawLessonNumber": 21,
+        "globalLessonNumber": 21,
+        "text": "第21课",
+        "line": 1056
+      },
+      {
+        "rawLessonNumber": 22,
+        "globalLessonNumber": 22,
+        "text": "第22课",
+        "line": 1101
+      },
+      {
+        "rawLessonNumber": 23,
+        "globalLessonNumber": 23,
+        "text": "第23课",
+        "line": 1145
+      },
+      {
+        "rawLessonNumber": 24,
+        "globalLessonNumber": 24,
+        "text": "第24课",
+        "line": 1175
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "private_only"
+  },
+  {
+    "fileName": "新版标准日本语初级词汇表_下册.md",
+    "relativePath": "新版标准日本语初级词汇表_下册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语初级词汇表_下册.md",
+    "lineCount": 1558,
+    "charCount": 64563,
+    "contentKind": "vocabulary",
+    "textbookBook": "初级下",
+    "lessonStart": 25,
+    "lessonEnd": 48,
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 25,
+        "globalLessonNumber": 25,
+        "text": "第25课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 26,
+        "globalLessonNumber": 26,
+        "text": "第26课",
+        "line": 55
+      },
+      {
+        "rawLessonNumber": 27,
+        "globalLessonNumber": 27,
+        "text": "第27课",
+        "line": 127
+      },
+      {
+        "rawLessonNumber": 28,
+        "globalLessonNumber": 28,
+        "text": "第28课",
+        "line": 199
+      },
+      {
+        "rawLessonNumber": 29,
+        "globalLessonNumber": 29,
+        "text": "第29课",
+        "line": 246
+      },
+      {
+        "rawLessonNumber": 30,
+        "globalLessonNumber": 30,
+        "text": "第30课",
+        "line": 338
+      },
+      {
+        "rawLessonNumber": 31,
+        "globalLessonNumber": 31,
+        "text": "第31课",
+        "line": 388
+      },
+      {
+        "rawLessonNumber": 32,
+        "globalLessonNumber": 32,
+        "text": "第32课",
+        "line": 454
+      },
+      {
+        "rawLessonNumber": 33,
+        "globalLessonNumber": 33,
+        "text": "第33课",
+        "line": 508
+      },
+      {
+        "rawLessonNumber": 34,
+        "globalLessonNumber": 34,
+        "text": "第34课",
+        "line": 580
+      },
+      {
+        "rawLessonNumber": 35,
+        "globalLessonNumber": 35,
+        "text": "第35课",
+        "line": 660
+      },
+      {
+        "rawLessonNumber": 36,
+        "globalLessonNumber": 36,
+        "text": "第36课",
+        "line": 738
+      },
+      {
+        "rawLessonNumber": 37,
+        "globalLessonNumber": 37,
+        "text": "第37课",
+        "line": 818
+      },
+      {
+        "rawLessonNumber": 38,
+        "globalLessonNumber": 38,
+        "text": "第38课",
+        "line": 874
+      },
+      {
+        "rawLessonNumber": 39,
+        "globalLessonNumber": 39,
+        "text": "第39课",
+        "line": 940
+      },
+      {
+        "rawLessonNumber": 40,
+        "globalLessonNumber": 40,
+        "text": "第40课",
+        "line": 1003
+      },
+      {
+        "rawLessonNumber": 41,
+        "globalLessonNumber": 41,
+        "text": "第41课",
+        "line": 1043
+      },
+      {
+        "rawLessonNumber": 42,
+        "globalLessonNumber": 42,
+        "text": "第42课",
+        "line": 1122
+      },
+      {
+        "rawLessonNumber": 43,
+        "globalLessonNumber": 43,
+        "text": "第43课",
+        "line": 1178
+      },
+      {
+        "rawLessonNumber": 44,
+        "globalLessonNumber": 44,
+        "text": "第44课",
+        "line": 1272
+      },
+      {
+        "rawLessonNumber": 45,
+        "globalLessonNumber": 45,
+        "text": "第45课",
+        "line": 1354
+      },
+      {
+        "rawLessonNumber": 46,
+        "globalLessonNumber": 46,
+        "text": "第46课",
+        "line": 1426
+      },
+      {
+        "rawLessonNumber": 47,
+        "globalLessonNumber": 47,
+        "text": "第47课",
+        "line": 1488
+      },
+      {
+        "rawLessonNumber": 48,
+        "globalLessonNumber": 48,
+        "text": "第48课",
+        "line": 1515
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "private_only"
+  },
+  {
+    "fileName": "新版标准日本语初级语法总结_上册.md",
+    "relativePath": "新版标准日本语初级语法总结_上册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语初级语法总结_上册.md",
+    "lineCount": 1849,
+    "charCount": 51114,
+    "contentKind": "grammar",
+    "textbookBook": "初级上",
+    "lessonStart": 1,
+    "lessonEnd": 24,
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 1,
+        "globalLessonNumber": 1,
+        "text": "第1课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 2,
+        "globalLessonNumber": 2,
+        "text": "第2课",
+        "line": 62
+      },
+      {
+        "rawLessonNumber": 3,
+        "globalLessonNumber": 3,
+        "text": "第3课",
+        "line": 135
+      },
+      {
+        "rawLessonNumber": 4,
+        "globalLessonNumber": 4,
+        "text": "第4课",
+        "line": 195
+      },
+      {
+        "rawLessonNumber": 5,
+        "globalLessonNumber": 5,
+        "text": "第5课",
+        "line": 270
+      },
+      {
+        "rawLessonNumber": 6,
+        "globalLessonNumber": 6,
+        "text": "第6课",
+        "line": 343
+      },
+      {
+        "rawLessonNumber": 7,
+        "globalLessonNumber": 7,
+        "text": "第7课",
+        "line": 398
+      },
+      {
+        "rawLessonNumber": 8,
+        "globalLessonNumber": 8,
+        "text": "第8课",
+        "line": 459
+      },
+      {
+        "rawLessonNumber": 9,
+        "globalLessonNumber": 9,
+        "text": "第9课",
+        "line": 529
+      },
+      {
+        "rawLessonNumber": 10,
+        "globalLessonNumber": 10,
+        "text": "第10课",
+        "line": 614
+      },
+      {
+        "rawLessonNumber": 11,
+        "globalLessonNumber": 11,
+        "text": "第11课",
+        "line": 692
+      },
+      {
+        "rawLessonNumber": 12,
+        "globalLessonNumber": 12,
+        "text": "第12课",
+        "line": 764
+      },
+      {
+        "rawLessonNumber": 13,
+        "globalLessonNumber": 13,
+        "text": "第13课",
+        "line": 854
+      },
+      {
+        "rawLessonNumber": 14,
+        "globalLessonNumber": 14,
+        "text": "第14课",
+        "line": 916
+      },
+      {
+        "rawLessonNumber": 15,
+        "globalLessonNumber": 15,
+        "text": "第15课",
+        "line": 1001
+      },
+      {
+        "rawLessonNumber": 16,
+        "globalLessonNumber": 16,
+        "text": "第16课",
+        "line": 1084
+      },
+      {
+        "rawLessonNumber": 17,
+        "globalLessonNumber": 17,
+        "text": "第17课",
+        "line": 1159
+      },
+      {
+        "rawLessonNumber": 18,
+        "globalLessonNumber": 18,
+        "text": "第18课",
+        "line": 1230
+      },
+      {
+        "rawLessonNumber": 19,
+        "globalLessonNumber": 19,
+        "text": "第19课",
+        "line": 1313
+      },
+      {
+        "rawLessonNumber": 20,
+        "globalLessonNumber": 20,
+        "text": "第20课",
+        "line": 1400
+      },
+      {
+        "rawLessonNumber": 21,
+        "globalLessonNumber": 21,
+        "text": "第21课",
+        "line": 1490
+      },
+      {
+        "rawLessonNumber": 22,
+        "globalLessonNumber": 22,
+        "text": "第22课",
+        "line": 1570
+      },
+      {
+        "rawLessonNumber": 23,
+        "globalLessonNumber": 23,
+        "text": "第23课",
+        "line": 1689
+      },
+      {
+        "rawLessonNumber": 24,
+        "globalLessonNumber": 24,
+        "text": "第24课",
+        "line": 1748
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "private_only"
+  },
+  {
+    "fileName": "新版标准日本语初级语法总结_下册.md",
+    "relativePath": "新版标准日本语初级语法总结_下册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语初级语法总结_下册.md",
+    "lineCount": 2070,
+    "charCount": 62637,
+    "contentKind": "grammar",
+    "textbookBook": "初级下",
+    "lessonStart": 25,
+    "lessonEnd": 48,
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 25,
+        "globalLessonNumber": 25,
+        "text": "第25课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 26,
+        "globalLessonNumber": 26,
+        "text": "第26课",
+        "line": 83
+      },
+      {
+        "rawLessonNumber": 27,
+        "globalLessonNumber": 27,
+        "text": "第27课",
+        "line": 168
+      },
+      {
+        "rawLessonNumber": 28,
+        "globalLessonNumber": 28,
+        "text": "第28课",
+        "line": 261
+      },
+      {
+        "rawLessonNumber": 29,
+        "globalLessonNumber": 29,
+        "text": "第29课",
+        "line": 332
+      },
+      {
+        "rawLessonNumber": 30,
+        "globalLessonNumber": 30,
+        "text": "第30课",
+        "line": 442
+      },
+      {
+        "rawLessonNumber": 31,
+        "globalLessonNumber": 31,
+        "text": "第31课",
+        "line": 555
+      },
+      {
+        "rawLessonNumber": 32,
+        "globalLessonNumber": 32,
+        "text": "第32课",
+        "line": 636
+      },
+      {
+        "rawLessonNumber": 33,
+        "globalLessonNumber": 33,
+        "text": "第33课",
+        "line": 720
+      },
+      {
+        "rawLessonNumber": 34,
+        "globalLessonNumber": 34,
+        "text": "第34课",
+        "line": 803
+      },
+      {
+        "rawLessonNumber": 35,
+        "globalLessonNumber": 35,
+        "text": "第35课",
+        "line": 880
+      },
+      {
+        "rawLessonNumber": 36,
+        "globalLessonNumber": 36,
+        "text": "第36课",
+        "line": 979
+      },
+      {
+        "rawLessonNumber": 37,
+        "globalLessonNumber": 37,
+        "text": "第37课",
+        "line": 1050
+      },
+      {
+        "rawLessonNumber": 38,
+        "globalLessonNumber": 38,
+        "text": "第38课",
+        "line": 1166
+      },
+      {
+        "rawLessonNumber": 39,
+        "globalLessonNumber": 39,
+        "text": "第39课",
+        "line": 1252
+      },
+      {
+        "rawLessonNumber": 40,
+        "globalLessonNumber": 40,
+        "text": "第40课",
+        "line": 1345
+      },
+      {
+        "rawLessonNumber": 41,
+        "globalLessonNumber": 41,
+        "text": "第41课",
+        "line": 1410
+      },
+      {
+        "rawLessonNumber": 42,
+        "globalLessonNumber": 42,
+        "text": "第42课",
+        "line": 1480
+      },
+      {
+        "rawLessonNumber": 43,
+        "globalLessonNumber": 43,
+        "text": "第43课",
+        "line": 1548
+      },
+      {
+        "rawLessonNumber": 44,
+        "globalLessonNumber": 44,
+        "text": "第44课",
+        "line": 1625
+      },
+      {
+        "rawLessonNumber": 45,
+        "globalLessonNumber": 45,
+        "text": "第45课",
+        "line": 1711
+      },
+      {
+        "rawLessonNumber": 46,
+        "globalLessonNumber": 46,
+        "text": "第46课",
+        "line": 1800
+      },
+      {
+        "rawLessonNumber": 47,
+        "globalLessonNumber": 47,
+        "text": "第47课",
+        "line": 1883
+      },
+      {
+        "rawLessonNumber": 48,
+        "globalLessonNumber": 48,
+        "text": "第48课",
+        "line": 1953
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "private_only"
+  },
+  {
+    "fileName": "新版标准日本语词汇补充一.md",
+    "relativePath": "新版标准日本语词汇补充一.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语词汇补充一.md",
+    "lineCount": 1000,
+    "charCount": 40731,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语词汇补充二.md",
+    "relativePath": "新版标准日本语词汇补充二.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语词汇补充二.md",
+    "lineCount": 544,
+    "charCount": 19520,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语高级词汇表_上册.md",
+    "relativePath": "新版标准日本语高级词汇表_上册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语高级词汇表_上册.md",
+    "lineCount": 1262,
+    "charCount": 65796,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语高级词汇表_下册.md",
+    "relativePath": "新版标准日本语高级词汇表_下册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语高级词汇表_下册.md",
+    "lineCount": 1304,
+    "charCount": 67017,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语高级语法总结_上册.md",
+    "relativePath": "新版标准日本语高级语法总结_上册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语高级语法总结_上册.md",
+    "lineCount": 1622,
+    "charCount": 64820,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 1,
+        "globalLessonNumber": 1,
+        "text": "第1课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 2,
+        "globalLessonNumber": 2,
+        "text": "第2课",
+        "line": 154
+      },
+      {
+        "rawLessonNumber": 3,
+        "globalLessonNumber": 3,
+        "text": "第3课",
+        "line": 260
+      },
+      {
+        "rawLessonNumber": 4,
+        "globalLessonNumber": 4,
+        "text": "第4课",
+        "line": 442
+      },
+      {
+        "rawLessonNumber": 5,
+        "globalLessonNumber": 5,
+        "text": "第5课",
+        "line": 594
+      },
+      {
+        "rawLessonNumber": 6,
+        "globalLessonNumber": 6,
+        "text": "第6课",
+        "line": 707
+      },
+      {
+        "rawLessonNumber": 7,
+        "globalLessonNumber": 7,
+        "text": "第7课",
+        "line": 829
+      },
+      {
+        "rawLessonNumber": 8,
+        "globalLessonNumber": 8,
+        "text": "第8课",
+        "line": 988
+      },
+      {
+        "rawLessonNumber": 9,
+        "globalLessonNumber": 9,
+        "text": "第9课",
+        "line": 1157
+      },
+      {
+        "rawLessonNumber": 10,
+        "globalLessonNumber": 10,
+        "text": "第10课",
+        "line": 1303
+      },
+      {
+        "rawLessonNumber": 11,
+        "globalLessonNumber": 11,
+        "text": "第11课",
+        "line": 1401
+      },
+      {
+        "rawLessonNumber": 12,
+        "globalLessonNumber": 12,
+        "text": "第12课",
+        "line": 1497
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "新版标准日本语高级语法总结_下册.md",
+    "relativePath": "新版标准日本语高级语法总结_下册.md",
+    "filePath": "content/sources/japanese-note/新版标准日本语高级语法总结_下册.md",
+    "lineCount": 1350,
+    "charCount": 49855,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [
+      {
+        "rawLessonNumber": 13,
+        "globalLessonNumber": 13,
+        "text": "第13课",
+        "line": 6
+      },
+      {
+        "rawLessonNumber": 14,
+        "globalLessonNumber": 14,
+        "text": "第14课",
+        "line": 59
+      },
+      {
+        "rawLessonNumber": 15,
+        "globalLessonNumber": 15,
+        "text": "第15课",
+        "line": 129
+      },
+      {
+        "rawLessonNumber": 16,
+        "globalLessonNumber": 16,
+        "text": "第16课",
+        "line": 293
+      },
+      {
+        "rawLessonNumber": 17,
+        "globalLessonNumber": 17,
+        "text": "第17课",
+        "line": 393
+      },
+      {
+        "rawLessonNumber": 18,
+        "globalLessonNumber": 18,
+        "text": "第18课",
+        "line": 454
+      },
+      {
+        "rawLessonNumber": 19,
+        "globalLessonNumber": 19,
+        "text": "第19课",
+        "line": 554
+      },
+      {
+        "rawLessonNumber": 20,
+        "globalLessonNumber": 20,
+        "text": "第20课",
+        "line": 661
+      },
+      {
+        "rawLessonNumber": 21,
+        "globalLessonNumber": 21,
+        "text": "第21课",
+        "line": 799
+      },
+      {
+        "rawLessonNumber": 22,
+        "globalLessonNumber": 22,
+        "text": "第22课",
+        "line": 914
+      },
+      {
+        "rawLessonNumber": 23,
+        "globalLessonNumber": 23,
+        "text": "第23课",
+        "line": 1029
+      },
+      {
+        "rawLessonNumber": 24,
+        "globalLessonNumber": 24,
+        "text": "第24课",
+        "line": 1160
+      }
+    ],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "日语五十音图.md",
+    "relativePath": "日语五十音图.md",
+    "filePath": "content/sources/japanese-note/日语五十音图.md",
+    "lineCount": 49,
+    "charCount": 1565,
+    "contentKind": "kana",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "private_only"
+  },
+  {
+    "fileName": "日语单词积累笔记一.md",
+    "relativePath": "日语单词积累笔记一.md",
+    "filePath": "content/sources/japanese-note/日语单词积累笔记一.md",
+    "lineCount": 1511,
+    "charCount": 52422,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "日语单词积累笔记三.md",
+    "relativePath": "日语单词积累笔记三.md",
+    "filePath": "content/sources/japanese-note/日语单词积累笔记三.md",
+    "lineCount": 1461,
+    "charCount": 52102,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "日语单词积累笔记二.md",
+    "relativePath": "日语单词积累笔记二.md",
+    "filePath": "content/sources/japanese-note/日语单词积累笔记二.md",
+    "lineCount": 1407,
+    "charCount": 49660,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "日语单词积累笔记四.md",
+    "relativePath": "日语单词积累笔记四.md",
+    "filePath": "content/sources/japanese-note/日语单词积累笔记四.md",
+    "lineCount": 1063,
+    "charCount": 42607,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  },
+  {
+    "fileName": "日语学习笔记.md",
+    "relativePath": "日语学习笔记.md",
+    "filePath": "content/sources/japanese-note/日语学习笔记.md",
+    "lineCount": 478,
+    "charCount": 26061,
+    "contentKind": "supplement",
+    "detectedLessonHeadings": [],
+    "missingLessons": [],
+    "duplicateLessons": [],
+    "publicImportPolicy": "needs_review"
+  }
+]

@@ -1,6 +1,6 @@
 # 从零开始学日语
 
-面向 0 基础学习者的日语学习网站。项目现在支持按教材课次学习：五十音和入门认知先行，然后进入《标准日本语（第二版）初级》初级上第 1-24 课、初级下第 25-48 课，之后再做 N5/N4 巩固和 N3 进阶。
+面向 0 基础学习者的日语学习网站。项目现在支持按教材课次学习：五十音和入门认知先行，然后进入《标准日本语（第二版）》初级、中级和高级路线，内容由 `Japanese_Note` Markdown 解析生成的 JSON 驱动。
 
 技术栈：React + Vite + TypeScript + Tailwind CSS。所有学习记录保存在当前浏览器的 `localStorage`，不需要后端。
 
@@ -29,6 +29,7 @@ npm run typecheck # 只运行 TypeScript 检查
 - 初级上：`unit-sbj2-shokyu-1` 到 `unit-sbj2-shokyu-24`。
 - 初级下：`unit-sbj2-shokyu-25` 到 `unit-sbj2-shokyu-48`。
 - N5/N4 巩固：助词、动词变形、形容词、基础阅读。
+- 中级/高级：由 `Japanese_Note` 解析生成的 JSON 内容驱动。
 - N3 进阶：N3 词汇、语法、阅读句子。
 
 首页推荐、课程解锁、练习和闪卡默认都通过 `src/utils/curriculum.ts` 按路线顺序计算，不再直接从 `lessons` 或 `allVocabulary` 随机取内容。
@@ -124,63 +125,77 @@ npm run typecheck # 只运行 TypeScript 检查
 ## unitId、textbookBook、textbookLesson
 
 - `unitId`：网站内部学习单元 ID，用来把词汇、语法、句子、练习精准挂到某一课。课程详情页优先按它取内容。
-- `textbookBook`：教材册别，只能是 `初级上` 或 `初级下`。
+- `textbookBook`：教材册别，支持 `初级上`、`初级下`、`中级上`、`中级下`、`高级上`、`高级下`。
 - `textbookLesson`：教材课次编号，例如第 3 课就是 `3`。适合批量筛选和后续维护。
 
 推荐三者都写。这样以后只往 data 文件补内容，不需要改组件逻辑。
 
 ## Japanese_Note Markdown 导入
 
-本项目支持从本地导入 `fukangwei/Japanese_Note` 的 Markdown 笔记，但不会把第三方内容硬编码进组件。导入源放在：
+本项目现在以 Python 解析器作为主内容入口：从 `Japanese_Note` Markdown 生成 JSON，前端再通过 `src/data/contentRepository.ts` 统一消费这些 JSON。第三方教材笔记不会硬编码进组件。
+
+CI 默认读取仓库内的快照目录：
 
 ```bash
 content/sources/japanese-note/
 ```
 
-如果你已经把仓库 clone 到项目根目录的 `Japanese_Note/`，可以复制 Markdown：
+如果你已经把仓库 clone 到项目根目录的 `Japanese_Note/`，可以同步 Markdown 到快照目录：
 
 ```bash
 mkdir -p content/sources/japanese-note
 cp Japanese_Note/*.md content/sources/japanese-note/
 ```
 
-导入流水线命令：
+一键解析、校验并生成报告：
 
 ```bash
-npm run content:scan:japanese-note
-npm run content:split:japanese-note
-npm run content:import:japanese-note
-npm run content:generate
-npm run content:validate
-npm run content:report:japanese-note
+npm run content:all:japanese-note
 ```
 
-一键运行：
+只运行 Python 解析器：
 
 ```bash
-LESSON_RANGE=1-3 npm run content:all:japanese-note
+npm run content:parse:japanese-note
 ```
 
-导入第 1-24 课：
+Python 解析器测试：
 
 ```bash
-LESSON_RANGE=1-24 npm run content:all:japanese-note
+npm run test:python
 ```
 
 主要输出：
 
-- `reports/japanese-note-inventory.md`
-- `reports/japanese-note-source-structure.json`
-- `content/intermediate/japanese-note/lesson-segments.json`
+- `content/intermediate/japanese-note/parsed.raw.json`
 - `content/intermediate/japanese-note/imported.raw.json`
-- `content/generated/*.generated.ts`
+- `content/generated/vocabulary.json`
+- `content/generated/grammar.json`
+- `content/generated/sentences.json`
+- `content/generated/expressions.json`
+- `content/generated/quizzes.json`
 - `reports/validation-report.md`
 - `reports/review-queue.md`
 - `reports/japanese-note-import-report.md`
 
-源文件用途由 `content/source-manifest/japanese-note.ts` 声明。下册源文件如果使用“第1课～第24课”的相对编号，可以把对应 manifest 项设置为 `lessonNumberingMode: "relative"` 并保留 `globalLessonOffset: 24`，导入时会映射到第 25-48 课。
+源文件用途由 `content/source-manifest/japanese-note.ts` 声明；Python 解析器也会按标准教材文件名识别初级、中级、高级的词汇表和语法总结。下册源文件如果使用“第1课～第24课”的相对编号，会映射到对应全局课次，例如初级下映射到第 25-48 课。
 
-默认只建议先导入初级上第 1-3 课，确认报告和 review queue 后再扩大范围。
+低置信度条目会保留在中间 JSON 和 `reports/review-queue.md`，但带有 `importStatus: "needs_review"`，前端默认不会展示。
+
+## GitHub Actions
+
+`.github/workflows/ci.yml` 会在 push 和 pull request 中执行：
+
+```bash
+npm ci
+npm run test:python
+npm run content:all:japanese-note
+git diff --exit-code content/generated content/intermediate/japanese-note reports
+npm test
+npm run build
+```
+
+如果你修改了 `Japanese_Note` 源文件、Python 解析器或内容 schema，需要本地运行 `npm run content:all:japanese-note` 并提交生成后的 JSON 与报告。
 
 ## 教材模式和自由模式
 
@@ -191,7 +206,7 @@ LESSON_RANGE=1-24 npm run content:all:japanese-note
 
 ## 版权说明
 
-本项目只预留适配《标准日本语（第二版）初级》的课次结构和字段，不完整复制教材课文、例句或练习。仓库中的教材课次内容是少量原创演示数据，用于说明如何关联 `unitId`、词汇、语法、句子和练习。请根据你手头教材自行补充，并避免大段复刻教材原文。
+本项目只预留适配《标准日本语（第二版）》初级、中级、高级的课次结构和字段，不完整复制教材课文、例句或练习。仓库中的教材课次内容用于说明如何关联 `unitId`、词汇、语法、句子和练习。请根据你手头教材自行补充，并避免大段复刻教材原文。
 
 从 `fukangwei/Japanese_Note` 导入的内容默认带有：
 
